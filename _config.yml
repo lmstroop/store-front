@@ -1,0 +1,25 @@
+# Site Settings
+title: Store Front
+email: ls724310@gmail.com
+description: >
+  A sweet store front for a baller seller.
+baseurl: "/jekyll/"
+url: "http://levistroop.com"
+twitter_username:
+github_username:  lmstroop
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+navigation:
+- text: About
+  url: /jekyll/about/
+- text: Projects
+  url: /jekyll/projects/
+  layout: project
+- text: Crafts
+  url: /jekyll/crafts/
+- text: Pets
+  url: /jekyll/pets/
