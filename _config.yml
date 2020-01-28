@@ -15,11 +15,11 @@ kramdown:
   input: GFM
 navigation:
 - text: About
-  url: /jekyll/about/
+  url: /about/
 - text: Projects
-  url: /jekyll/projects/
+  url: /projects/
   layout: project
 - text: Crafts
-  url: /jekyll/crafts/
+  url: /crafts/
 - text: Pets
-  url: /jekyll/pets/
+  url: /pets/
