@@ -3,7 +3,8 @@ title: Store Front
 email: ls724310@gmail.com
 description: >
   A sweet store front for a baller seller.
-baseurl: "/"
+baseurl: ""
+newbaseurl: "/"
 url: ""
 twitter_username:
 github_username:  lmstroop
