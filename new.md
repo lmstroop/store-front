@@ -19,3 +19,5 @@ Mm Food like Rapp Snitch Knishes
 How many gold plaques you want inside your dining room?
 I said I want a full house
 They said, "You got it dude!"
+
+<a href="./about/">Check out something else</a>
