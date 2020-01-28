@@ -21,5 +21,3 @@ I said I want a full house
 They said, "You got it dude!"
 
 <a href="../about/">Check out something else</a>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tv1urfDXs-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
